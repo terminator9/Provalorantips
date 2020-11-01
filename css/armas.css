@@ -22,19 +22,19 @@
         width: 230px;
         margin-top:15px  ;
 }
-@media(max-width:465px){
+@media(max-width:475px){
     .contimg{
         width: 200px;
         margin-top:15px  ;
 }
-@media(max-width:408px){
+@media(max-width:418px){
     .contimg{
         width: 190px;
         margin-top:15px  ;
 }
-@media(max-width:388px){
+@media(max-width:398px){
     .contimg{
-        width: 180px;
+        width: 160px;
         margin-top:15px  ;
 }
 @media(max-width:366px){
@@ -42,22 +42,22 @@
         width: 150px;
         margin-top:15px  ;
 }
-@media(max-width:306px){
+@media(max-width:316px){
     .contimg{
         width: 130px;
         margin-top:15px  ;
 }
-@media(max-width:266px){
+@media(max-width:276px){
     .contimg{
         width: 110px;
         margin-top:15px  ;
 }
-@media(max-width:226px){
+@media(max-width:236px){
     .contimg{
         width: 100px;
         margin-top:15px  ;
 }
-@media(max-width:206px){
+@media(max-width:216px){
     .contimg{
         width: 90px;
         margin-top:15px  ;
