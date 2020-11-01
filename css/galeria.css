@@ -43,3 +43,23 @@
         width: 150px;
         margin-top:15px  ;
 }
+@media(max-width:306px){
+    .contimg{
+        width: 130px;
+        margin-top:15px  ;
+}
+@media(max-width:266px){
+    .contimg{
+        width: 110px;
+        margin-top:15px  ;
+}
+@media(max-width:226px){
+    .contimg{
+        width: 100px;
+        margin-top:15px  ;
+}
+@media(max-width:206px){
+    .contimg{
+        width: 90px;
+        margin-top:15px  ;
+}
