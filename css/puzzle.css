@@ -1,0 +1,49 @@
+form{
+    width: 500px;
+    margin: auto;
+    background: rgba(214, 32, 32, 0.5);
+    padding: 10px 20px;
+    box-sizing: border-box;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+#title{
+    color: #fff;
+    text-align: center;
+    margin: 0;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+input, textarea{
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 7px;
+    box-sizing: border-box;
+    font-size: 15px;
+    border: none;
+}
+textarea{
+    min-height: 100px;
+    max-height: 200px;
+    max-width: 100%;
+}
+#boton{
+    background: rgb(182, 30, 30) ;
+    color: white;
+
+}
+#boton:hover{
+    cursor: pointer;
+
+}
+
+@media(max-width:720px){
+    form{
+        width: 100%;
+        margin: 0 auto;
+    }
+    #title{
+        font-size: 20px;
+    }
+
+}
