@@ -23,18 +23,23 @@
         width: 230px;
         margin-top:15px  ;
 }
-@media(max-width:420px){
+@media(max-width:465px){
     .contimg{
         width: 200px;
         margin-top:15px  ;
 }
-@media(max-width:375px){
+@media(max-width:408px){
     .contimg{
-        width: 150px;
+        width: 190px;
         margin-top:15px  ;
 }
-@media(max-width:300px){
+@media(max-width:388px){
     .contimg{
-        width: 240px;
+        width: 180px;
+        margin-top:15px  ;
+}
+@media(max-width:366px){
+    .contimg{
+        width: 150px;
         margin-top:15px  ;
 }
